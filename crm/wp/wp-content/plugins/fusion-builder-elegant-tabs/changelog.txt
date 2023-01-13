@@ -1,0 +1,63 @@
+Changelog —
+
+Version 2.6.1 – 13 February, 2020
+- Fixes: Deep-linking if multiple tabs are used on same page has tab ID conflict
+- Fixes: If Image Icon option is selected but no image is provided, an empty placeholder was being added
+- Fixes: Compatibility with Avada 6.2 and Fusion Builder 2.2
+
+Version 2.6.0 – 7 October, 2019
+- New: Frontend editor compatibility. Now, you can edit the tabs from within Fusion Builder Frontend editor
+- Fix: Tab styling for content height in vertical tabs
+- Fix: Tabs to accordion on mobile switch the first instance of tabs if multiple tabs container are used.
+
+Version 2.5.0 – 10 April, 2019
+- New: Option to add the ability for text to wrap as a user option in the tab set up
+- Improvement: Updated option description for default active tab option to make it more clear
+- Fix: Small js conflict where url has # and there's no tab with the # name
+- Fix: Vertical tab styling for iconbox tab style
+- Fix: Set tab content background correctly when content has a floating element
+- Fix: Responsive behavior where tabs and dropdown both get displayed same time for a few styles
+- Fix: Errors when Avada is not active but Elegant Tabs plugin is active
+
+Version 2.4.0 – 22 May, 2018
+- New: You can set different color for each tab
+- New: Option to set Icon font size
+- New: Add option to set any tab as active on page load
+- New: Option to auto switch tabs with set interval
+- Improvement: Added support for Google map element inside elegant tabs
+- Improvement: Compatibility with Avada 5.5 and FontAwesome 5
+- Improvement: Compatibility with latest WordPress
+- Fix: Dropdown option doesn't work well due to wrong attribute
+
+Version 2.3.0 – 17 November, 2017
+- New: Added compatibility with Yikes Custom Product Tabs for WooCommerce
+- Improved: WordPress 4.9 compatibility
+- Improved: Tabs styling.
+- Improved: Fusion Builder Gallery element works fine within elegant tabs now
+- Fixed: WooCommerce 3.2.x compatibility
+- Fixed: WooCommerce empty tab container if all default tabs are removed
+- Fixed: Tab js scroll jump in deep linking
+
+Version 2.2.0 – 15 March, 2017
+- New: Mobile tabs to accordion option.
+- New: Added icon selector for product tabs.
+- Improved: Tabs styling.
+- Improved: Compatibility with WooCommerce 2.7
+- Fixed: Few minor bugs.
+
+Version 2.1.0 – 21 Feb., 2017
+- New: Justified Tabs option to spread tab width equally across the container.
+- Fixed: Tab to dropdwon on mobile devices issue.
+
+Version 2.0.0 – 24 December, 2016
+- New: Vertical Tabs option to convert tabs to vertical type.
+- New: Tab ID option added for adding custom tab ids.
+- New: Option added to enable tabs to dropdown conversion on mobile devices.
+- Improved: Compatibility with WordPress 4.7
+- Improved: Compatibility with Fusion Builder 1.0.6
+- Improved: Tabs styling.
+- Fixed: Blank Image placeholder being added if no icon is selected.
+- Fixed: Tab content area top margin adding blank space after tab navigation.
+
+Version 1.0.0 – November 16, 2016
+Initial Release

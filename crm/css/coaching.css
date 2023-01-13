@@ -1,0 +1,27 @@
+.beforeimg::before {
+    background-image: url('../images/before.jpg');
+    background-size: 20px 20px;
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    content: "";
+    margin: 0 5px -11px 0;
+    color: #FDCE2A;
+  }
+  .bordertop{
+      border-top: #FDCE2A solid 5px;
+  }
+  .margintop{
+    margin-top: 100px;
+  }
+  input {
+      margin: 10px 0 0;
+      background: transparent;
+      border: none;
+  }
+  .submitmargin{
+    margin-top: 70px;
+    margin-left: 175px;
+  }
+  
+  

@@ -1,0 +1,59 @@
+table, td{
+	border: 1px solid black;
+  	border-collapse: collapse;
+  	text-align: left;
+  	height: 30px;
+  	width: 70px;	
+}
+.page_content{
+	text-align: center;
+	margin:0 auto;
+	width:50%;
+	background: url('<?php echo base_url().'images/FormBackground.png';?>') center no-repeat;
+	background-size: 70%;
+	font-family: calibri;
+	font-size: 16px;
+	color: #000;
+}
+.imgLogo img{
+	width: 35%;
+}
+input[type="text"],input[type="date"],input[type="number"],input[type="time"]{
+	border: none;
+	outline: none;
+	background: transparent;
+}
+.divp{
+	display: inline-block;
+	margin: 100px 50px 0 0;
+	width: 200px;
+}
+.divp p{
+	margin: 0;
+}
+.approval{
+	margin-left: 30px;
+	margin-top: -35px;
+}
+.divp .borderbot{
+	border-top: 1px solid #000;
+}
+.alignleft{
+	text-align:left;
+}
+.alignright{
+	text-align: right;
+}
+textarea{
+	-webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+	width: 100%;
+    background: transparent;
+	}
+.bordernone{
+	border:none;
+}
+.name-width{
+	width: 50%;
+}

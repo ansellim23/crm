@@ -1,0 +1,27 @@
+ /* manager */
+ #loader {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+
+ /* admin */
+ #loader_1 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_1 {position: absolute;bottom: 85;left: 0;right: 0;margin: auto;}
+ #loader_2 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_2 {position: absolute;bottom: 85;left: 0;right: 0;margin: auto;}
+ #loader_3 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_3 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+ #loader_4 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_4 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+ #loader_5 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_5 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+ #loader_6 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_6 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
+ #loader_7 {border: 12px solid #f3f3f3;border-radius: 50%;border-top: 12px solid #444444;width: 70px;height: 70px;animation: spin 1s linear infinite;}
+ @keyframes spin {100% {transform: rotate(360deg);}}
+ .center_7 {position: absolute;top: 0;bottom: 0;left: 0;right: 0;margin: auto;}
